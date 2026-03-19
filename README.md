@@ -1,0 +1,1 @@
+# registrador-projeto-nuvem
