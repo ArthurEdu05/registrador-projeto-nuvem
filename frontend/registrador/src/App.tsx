@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 export default function App() {
 
-  const API = "http://localhost:25000/api/camisas";
+  const API = "http://18.210.241.183:25000/api/camisas";
 
   const [form, setForm] = useState({
 
