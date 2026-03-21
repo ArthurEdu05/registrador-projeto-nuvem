@@ -150,7 +150,7 @@ export default function App() {
 
       <h2>📋 Lista de Registros</h2>
 
-      <table style={styles.table}>
+      <table>
 
         <thead>
 
@@ -257,13 +257,7 @@ const styles = {
     padding: "5px 10px",
     cursor: "pointer"
 
-  },
-
-  table: {
-
-    width: "100%",
-    borderCollapse: "collapse"
-
   }
+
 
 };
