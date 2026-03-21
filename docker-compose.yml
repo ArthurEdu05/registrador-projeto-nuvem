@@ -1,0 +1,11 @@
+services:
+  backend:
+    build: ./backend/registrador
+    image: localhost/backend:1.0
+    ports:
+      - 25000:25000
+  frontend:
+    build: ./frontend/registrador
+    image: localhost/frontend:1.0
+    ports:
+      - 8080:8080
