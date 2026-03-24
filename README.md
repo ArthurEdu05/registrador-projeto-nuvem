@@ -7,6 +7,15 @@ Este projeto é uma aplicação desenvolvida para o registro e consulta de camis
 
 ## Os Dockerfiles utilizado e uma explicação do processo de criação do container Docker.
 
+### Dockerfile Backend
+<img width="420" height="288" alt="image" src="https://github.com/user-attachments/assets/75e405d7-d128-47ed-875f-b1d09ae59ce6" />
+
+### Dockerfile Frontend
+<img width="363" height="334" alt="image" src="https://github.com/user-attachments/assets/af3f1ac9-5683-4525-9f61-228e975c0c32" />
+
+### Docker compose
+<img width="313" height="285" alt="image" src="https://github.com/user-attachments/assets/5e925963-dc0e-4f9f-b364-fb2f88b394e1" />
+
 ## Uma descrição detalhada dos passos realizados para configurar a instância de VM, a VPC e as regras de segurança.
 
 ## Prints de tela mostrando a aplicação rodando.
