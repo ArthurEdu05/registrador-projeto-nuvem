@@ -29,15 +29,6 @@ Etapas realizadas:
 
 ### Dockerfile Frontend
 <img width="363" height="334" alt="image" src="https://github.com/user-attachments/assets/af3f1ac9-5683-4525-9f61-228e975c0c32" />
-
-Este Dockerfile cria a imagem do frontend React.
-
-Etapas realizadas:
-
-1. Utiliza imagem Node.js.
-2. Instala dependências.
-3. Realiza build da aplicação.
-4. Executa a aplicação na porta 8080.
 Este Dockerfile cria a imagem do frontend React.
 
 Etapas realizadas:
@@ -51,14 +42,6 @@ Etapas realizadas:
 ### Docker compose
 <img width="313" height="285" alt="image" src="https://github.com/user-attachments/assets/5e925963-dc0e-4f9f-b364-fb2f88b394e1" />
 
-Este Dockerfile cria a imagem do frontend React.
-
-Etapas realizadas:
-
-1. Utiliza imagem Node.js.
-2. Instala dependências.
-3. Realiza build da aplicação.
-4. Executa a aplicação na porta 8080.
 
 ## Instância de VM, a VPC e as regras de segurança.
 A VM foi crida via Learner lab da AWS, é uma maquina linux micro T3, onde foi instalado o docker e docker compose, também foi atribuido um IP elastico para reduzir trabalho na hora de rodar a aplicação.
