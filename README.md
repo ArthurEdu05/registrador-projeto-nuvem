@@ -41,6 +41,7 @@ Etapas realizadas:
 
 ### Docker compose
 <img width="313" height="285" alt="image" src="https://github.com/user-attachments/assets/5e925963-dc0e-4f9f-b364-fb2f88b394e1" />
+O Docker Compose foi utilizado para subir backend e frontend simultaneamente.
 
 
 ## Instância de VM, a VPC e as regras de segurança.
