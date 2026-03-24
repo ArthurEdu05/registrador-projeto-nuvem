@@ -52,7 +52,7 @@ conectando na VM
 Aplicação iniciada
 <img width="1464" height="147" alt="image" src="https://github.com/user-attachments/assets/e63ac344-c1b4-4673-866d-e6a21bdeb006" />
 
-Aplicação rodando na porta 8008
+Aplicação rodando na porta 8080
 <img width="1706" height="1076" alt="image" src="https://github.com/user-attachments/assets/e8e36262-bb3f-4fe4-93a6-c5e35f75ab68" />
 
 ## Uma discussão sobre quaisquer desafios encontrados durante o projeto e como foram superados.
